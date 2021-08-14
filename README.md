@@ -62,5 +62,6 @@ and uncomplicated classification algorithm.
 2. Prediction of membership probabilities is made for every class such as the probability of data points associated to a particular class. 
 3. The class having maximum probability is appraised as the most suitable class. 
 
-##CERTIFICATION FOR THE PAPER
+# CERTIFICATION FOR THE PAPER
+
 ![Presentation Certificate](https://user-images.githubusercontent.com/39917179/129444329-9fac6b53-257a-40aa-b85c-3eae93063867.jpg)
